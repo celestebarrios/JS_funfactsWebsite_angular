@@ -12,7 +12,7 @@ const routes: Routes = [
   {
     path : 'javascript', component : JavascriptComponent},
   {
-    path : 'promise', component : PromisesComponent},
+    path : 'promises', component : PromisesComponent},
   {
     path : 'callbacks', component : CallbacksComponent},
   {
