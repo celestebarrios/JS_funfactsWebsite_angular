@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "funfacts"
+    }
+  },
+  "defaultProject": "funfacts",
+  "cli": {
+    "analytics": "7ddcd5e0-d3f2-497f-bc48-bbc68c65f8b7"
+  }
 }
